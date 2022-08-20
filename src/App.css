@@ -1,0 +1,11 @@
+.completedTodo {
+  text-decoration-line: line-through;
+}
+
+.show {
+  display: block;
+}
+
+.dontShow {
+  display: none;
+}
